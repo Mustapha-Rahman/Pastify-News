@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207285403424",
+    "project_id": "pastifynews",
+    "storage_bucket": "pastifynews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207285403424:android:0dcbbd7c90bf7e6bfbe145",
+        "android_client_info": {
+          "package_name": "com.pastifynews.uninews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207285403424-0pnupn93bcpg49gf6e7vs35agqse12p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCAwhCfSz3nzf3_JafYi3MvDwl6k3-MMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207285403424-0pnupn93bcpg49gf6e7vs35agqse12p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
